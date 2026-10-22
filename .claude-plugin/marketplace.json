@@ -1,0 +1,12 @@
+{
+  "name": "claude-credit-bar",
+  "owner": { "name": "rbgt" },
+  "metadata": { "description": "Barre de statut Claude Code : modèle en cours et usage restant" },
+  "plugins": [
+    {
+      "name": "credit-bar",
+      "source": "./",
+      "description": "Affiche en continu le modèle en cours et le pourcentage d'usage restant (session 5h / hebdo) dans la ligne de statut de Claude Code"
+    }
+  ]
+}

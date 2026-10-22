@@ -1,0 +1,1 @@
+{ "name": "credit-bar", "version": "0.1.0", "author": { "name": "Rick BOURGET" }, "description": "Affiche en continu le pourcentage d'usage restant (fenêtres 5h / 7j) dans la ligne de statut" }
